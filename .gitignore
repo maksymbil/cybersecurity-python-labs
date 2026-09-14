@@ -12,4 +12,8 @@ __pycache__/
 
 # Lab generated data
 labs/lab01/data/users.csv
+<<<<<<< HEAD
 labs/lab01/data/log.json
+=======
+labs/lab01/data/log.json
+>>>>>>> 01a8fd544abd0d9ea712d6758aabc20eb7bc8ed0
