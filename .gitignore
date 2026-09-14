@@ -1,0 +1,15 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Ruff
+.ruff_cache/
+
+# Lab generated data
+labs/lab01/data/users.csv
+labs/lab01/data/log.json
